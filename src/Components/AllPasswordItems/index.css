@@ -1,0 +1,40 @@
+.list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  width: 25%;
+  margin-right: 30px;
+}
+.first-char {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Roboto';
+  height: 40px;
+  width: 40px;
+  background-color: #10b981;
+  border-radius: 30px;
+  color: #ffffff;
+  margin-right: 15px;
+}
+.web-para {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 16px;
+}
+.stars-img {
+  height: 15px;
+  width: auto;
+}
+.delete-img {
+  height: 30px;
+  width: 30px;
+}
+.delete-btn {
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  background-color: transparent;
+  border-style: none;
+}
